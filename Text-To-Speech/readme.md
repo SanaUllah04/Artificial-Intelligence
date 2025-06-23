@@ -20,6 +20,7 @@ Install the required packages using pip:
 
 ```bash
 pip install transformers ipython
+```
 
 ### Output
 
