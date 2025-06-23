@@ -6,7 +6,7 @@ This project demonstrates a simple and effective pipeline for converting English
 
 - Uses Hugging Face’s `pipeline` API for Text-to-Speech (TTS)
 - Outputs high-quality, soothing speech audio
-- Audio can be played directly within Jupyter Notebooks
+- Audio can be played directly within Jupyter Notebooks & downloaded
 
 ## Requirements
 
